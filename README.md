@@ -1,2 +1,2 @@
 # mean-lean
-A seed project for MEAN stack
+A seed project for MEAN stack.
